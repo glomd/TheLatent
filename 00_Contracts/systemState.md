@@ -16,3 +16,4 @@ Deterministic generation required.
 
 Rule 04:
 Sector-based lazy loading required.
+
